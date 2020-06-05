@@ -1,4 +1,4 @@
-# testqrcode
+# Fman scan QR code
 
 A new Flutter project.
 
